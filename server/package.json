@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-   "engines": {
+  "engines": {
     "node": "14.x"
   },
   "main": "src/index.js",
@@ -28,4 +28,3 @@
     "nodemon": "^2.0.4"
   }
 }
-
